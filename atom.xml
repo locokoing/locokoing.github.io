@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://locokoing.github.io</id>
     <title>locoko</title>
-    <updated>2021-04-14T07:28:05.082Z</updated>
+    <updated>2021-04-14T08:15:26.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://locokoing.github.io"/>
     <link rel="self" href="https://locokoing.github.io/atom.xml"/>
@@ -10,4 +10,17 @@
     <logo>https://locokoing.github.io/images/avatar.png</logo>
     <icon>https://locokoing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, locoko</rights>
+    <entry>
+        <title type="html"><![CDATA[关于博客]]></title>
+        <id>https://locokoing.github.io/post/guan-yu-bo-ke/</id>
+        <link href="https://locokoing.github.io/post/guan-yu-bo-ke/">
+        </link>
+        <updated>2021-04-14T07:34:10.000Z</updated>
+        <content type="html"><![CDATA[<p>也记不清这是第几个博客了，一代接着一代；</p>
+<p>最开始用的是WordPress，从最开始的新鲜感变成最后的厌倦，从简单的简单个体变成臃肿杂乱集合体，最终放弃了对它的厌恶，如此繁杂，索性不写；</p>
+<p>之后创建博客与写博客变成一件可望而不可求的事情，或许懒是最好的解释，先后转过鲶鱼，但鲶鱼已然年久失修，跟不上时代。自己动手，苦于DNS、备案与服务器等等问题；</p>
+<p>罢了，有什么好写的......</p>
+<p>真香~</p>
+]]></content>
+    </entry>
 </feed>
