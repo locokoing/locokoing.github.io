@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://locokoing.github.io</id>
     <title>locoko</title>
-    <updated>2021-04-14T08:15:26.770Z</updated>
+    <updated>2021-04-14T08:30:20.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://locokoing.github.io"/>
     <link rel="self" href="https://locokoing.github.io/atom.xml"/>
-    <subtitle>有点小懒，但继续中》》》</subtitle>
+    <subtitle>有点小懒，但继续中</subtitle>
     <logo>https://locokoing.github.io/images/avatar.png</logo>
     <icon>https://locokoing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, locoko</rights>
