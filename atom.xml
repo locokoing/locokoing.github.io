@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://locokoing.github.io</id>
     <title>locoko</title>
-    <updated>2021-04-15T08:47:31.913Z</updated>
+    <updated>2021-04-15T08:49:08.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://locokoing.github.io"/>
     <link rel="self" href="https://locokoing.github.io/atom.xml"/>
@@ -10,23 +10,6 @@
     <logo>https://locokoing.github.io/images/avatar.png</logo>
     <icon>https://locokoing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, locoko</rights>
-    <entry>
-        <title type="html"><![CDATA[爱情]]></title>
-        <id>https://locokoing.github.io/post/ai-qing/</id>
-        <link href="https://locokoing.github.io/post/ai-qing/">
-        </link>
-        <updated>2021-04-15T03:43:44.000Z</updated>
-        <content type="html"><![CDATA[<p>时常有人说，locoko，我再也不相信爱情了......</p>
-<p>每当听到诸如此番的话语，就不搭理人家，并且表示你继续讲；</p>
-<p>终于，他也知道我不想听诸如此类的话，放弃了继续跟我哲学探讨，转而走向远方；</p>
-<p>没什么探讨的，每个人都是特定存在的个体，思想、三观诸如此类都不一样。何况是男生，来个女生至少说几句，不会冷别人家场子（狗头保命😁）；</p>
-<p>别人的爱情不要关注。与自身无关，假若是朋友，敷衍了事便是。你也指不定哪天他们和好，最后把你一顿损，我倒是遇见过，站在兄弟这边帮着他说话，人家倒好，和好了，这叫什么事情，换谁谁尴尬。</p>
-<p>自身的爱情把握好尺度。不要说别人咋样咋样，你又不是别人，做好自己，不要比较，爱你的人有他自己的方式，千篇一律只会产生重复感。有时候自身也把控不住自己，脾气性格之类，都是缺点，但爱我的那一半她知道啊，这叫包容。</p>
-<p>拿上面那个例子来说，我知道他是什么人。爱情是相付出、成果是双方努力的，不是单独一个人的单打独斗，他失望、难过，但是女生呢？谁也不知道。</p>
-<p>别人跟我说再也不相信爱情了，比起爱情，我更不相信说这话的你。</p>
-<p>给你个眼神，自己体会！</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[金石缘]]></title>
         <id>https://locokoing.github.io/post/jin-shi-yuan/</id>
@@ -45,6 +28,23 @@
 <p>......</p>
 <p>“可是，符儒你怎么知道此事，你可是本朝人。”青云追问，却不知符儒已经走了很远,赶忙追上去。</p>
 <p>“凄凄惨惨戚戚，乍暖还寒时候，最难将息。”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱情]]></title>
+        <id>https://locokoing.github.io/post/ai-qing/</id>
+        <link href="https://locokoing.github.io/post/ai-qing/">
+        </link>
+        <updated>2021-04-09T03:43:44.000Z</updated>
+        <content type="html"><![CDATA[<p>时常有人说，locoko，我再也不相信爱情了......</p>
+<p>每当听到诸如此番的话语，就不搭理人家，并且表示你继续讲；</p>
+<p>终于，他也知道我不想听诸如此类的话，放弃了继续跟我哲学探讨，转而走向远方；</p>
+<p>没什么探讨的，每个人都是特定存在的个体，思想、三观诸如此类都不一样。何况是男生，来个女生至少说几句，不会冷别人家场子（狗头保命😁）；</p>
+<p>别人的爱情不要关注。与自身无关，假若是朋友，敷衍了事便是。你也指不定哪天他们和好，最后把你一顿损，我倒是遇见过，站在兄弟这边帮着他说话，人家倒好，和好了，这叫什么事情，换谁谁尴尬。</p>
+<p>自身的爱情把握好尺度。不要说别人咋样咋样，你又不是别人，做好自己，不要比较，爱你的人有他自己的方式，千篇一律只会产生重复感。有时候自身也把控不住自己，脾气性格之类，都是缺点，但爱我的那一半她知道啊，这叫包容。</p>
+<p>拿上面那个例子来说，我知道他是什么人。爱情是相付出、成果是双方努力的，不是单独一个人的单打独斗，他失望、难过，但是女生呢？谁也不知道。</p>
+<p>别人跟我说再也不相信爱情了，比起爱情，我更不相信说这话的你。</p>
+<p>给你个眼神，自己体会！</p>
 ]]></content>
     </entry>
     <entry>
