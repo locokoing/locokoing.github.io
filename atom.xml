@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://locokoing.github.io</id>
     <title>locoko</title>
-    <updated>2021-04-15T09:03:02.886Z</updated>
+    <updated>2021-04-16T09:22:46.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://locokoing.github.io"/>
     <link rel="self" href="https://locokoing.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://locokoing.github.io/images/avatar.png</logo>
     <icon>https://locokoing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, locoko</rights>
+    <entry>
+        <title type="html"><![CDATA[伪梦]]></title>
+        <id>https://locokoing.github.io/post/wei-meng/</id>
+        <link href="https://locokoing.github.io/post/wei-meng/">
+        </link>
+        <updated>2021-04-16T09:11:23.000Z</updated>
+        <content type="html"><![CDATA[<p>昨晚她说梦见了我，画面很不好，还故意气她，梦里面的我是多么可笑且无知，如滑弄世俗般一样妖艳卑鄙。</p>
+<p>从梦说起，大概有多次都使她对我产生不好的印象，以致于第二天为此还在纠缠着心结，她梦里面的我，大概是个十足的渣男吧。</p>
+<p>回到现实，从正面看我，一张平凡的脸和一张世俗都不乐意的嘴，很难将其与梦中的我串联起来，从开始的与我无关，到她梦里的两次三番，我想，是不是我给她留下的不仅仅是美好的，或许还有更不为人知的事情。</p>
+<p>不要说随缘吧，也不要想着天注定。努力过后的日子与彩虹总比经常看的美得多，奔赴前行，梦里有时终是无，也许这就是我的晚安，和波澜不惊的平淡。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金石缘]]></title>
         <id>https://locokoing.github.io/post/jin-shi-yuan/</id>
